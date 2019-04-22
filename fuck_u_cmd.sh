@@ -4,7 +4,6 @@ DOSKEY mv=move
 DOSKEY ls=dir
 DOSKEY clear=cls
 DOSKEY rm=del
-DOSKEY echo=echo
 DOSKEY diff=fc
 DOSKEY grep=find
 DOSKEY mke2fs=format a:
