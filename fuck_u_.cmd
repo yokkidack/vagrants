@@ -11,4 +11,3 @@ DOSKEY less=more
 DOSKEY mv=ren
 DOSKEY pwd=chdir
 DOSKEY date=time
-DOSKEY cat=type
